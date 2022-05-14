@@ -27,7 +27,7 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src={profilepic}
+                    src="images/me.jpeg"
                     alt="Avatar placeholder"
                   />
                   <Icon

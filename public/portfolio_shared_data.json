@@ -1,20 +1,21 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Stanley Wilder",
+      "titles": "Fire Controlman Second Class at US Navy | 2015-2021 | Software developer(In Training) | 2022]",
+
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/stanwilder",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stanley-wilder-b080b3233/",
+          "class": "fa-brands fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "public/images/me.jpeg"
     },
     "skills": {
       "icons": [
